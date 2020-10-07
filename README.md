@@ -1,2 +1,2 @@
-# -Java
+# Java
 Lenguaje de programación Java
